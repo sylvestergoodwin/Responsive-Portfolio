@@ -1,0 +1,141 @@
+/* ===============================================================*/		
+/* small devices (phones, up to 640px) */
+@media screen and (max-width: 640px)	
+{
+  body 
+	{
+    background-color: lightpink;
+    width: 567px;
+  }
+	.setdisplay
+	{
+		display: block;	
+	}
+  .menu
+	{
+    float: none;
+	}
+  .menuitem
+    {
+   width: 30%;
+   display: inline-block; 
+	 margin: 0 auto;
+	text-align: center;
+  }
+  
+	.inline-block-display
+	{
+		display: inline-block;	
+	}
+    
+	.squareicon
+	{
+		height: 50px;
+		width: 50px;
+	}
+
+	.header
+	{
+		height: 3em;
+	}  
+	.headerwidth
+	{
+		width: 100%;
+	}
+	.headerheight
+	{
+		height: 6em;
+	}		
+	.whoami
+	{ 
+		position: relative;	
+		height: 1.75em;	
+		right: 20;
+		font-size: 1.25em;
+		padding-top: 0.35em;
+	}  
+	.maincontent
+	{
+		width: 567px;
+	}  			
+	.hidewhensmall
+	{
+		display: none;	
+	}
+	.showwhensmall
+	{
+		display: inline;
+	}
+	.sectionname
+	{
+		font-size: 1em;
+	}  			
+
+  .aboutmeimage
+   {  
+  display: block;
+  width: 100%
+  }
+	.prorfolio
+   {
+   width: 90%;  
+  }  
+  .prorfolioleft
+   {
+  float: none;  
+  }
+  .prorfolioright
+   {
+  float: none;  
+  }
+  
+	.formtext
+	{
+		font-size: 0.75em;
+	}  
+	.formatfooter
+	{
+		margin: 0 auto;
+		height: 20px;
+		padding-top: 1px;
+		border-top: 1px solid #4aaaa5;    
+	}
+	.socialmediawidth
+	{
+		width:100%;
+	}			
+			
+	.footerwidth
+	{
+    width: 567px;
+	}		
+					
+  .footertext
+	{
+		width: 70%; 
+		margin: auto;
+		font-size: 0.75em;
+	}			
+					
+	.floatleft
+	{
+		display: inline-block;
+		float: left;
+		padding-top: 2px;
+		padding-left: 2px;
+		padding-bottom: 2px; 
+		padding-right: 2px; 
+		border: 1px solid darkgrey;
+		margin:2px;	
+	}	
+    
+	.menu
+	{	
+		position: top;	
+		padding-top: 0.65em;
+		padding-right: 0.5em;
+	}  
+    
+}
+	
+		

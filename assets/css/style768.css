@@ -1,0 +1,78 @@
+/* Small devices (tablets, 768px and up) */
+@media screen and (max-width: 768px)
+{
+  body 
+    {
+    background-color: lightblue;	
+		width: 100%;
+  }			
+	.headerwidth
+    {
+    width:750px;
+	}
+  .setdisplay
+	{
+    display: inline-block;	
+	}	
+	.menu
+	{
+		float: right;
+	}
+  .menuboxborder
+    {
+    border: none;
+	}
+	.maincontent
+	{
+    width: 750px;
+	}  			
+	.showwhensmall
+	{
+		display: inline;
+	}
+	.socialmediawidth
+	{
+		width:750px;
+	}
+	.sectionname
+	{
+		font-size: 1.25em;
+	}  			
+  .aboutmeimage
+   {
+  float: left;  
+  display: block;
+  width: 45%
+  }
+	.prorfolio
+   {
+   width: 45%;  
+  }  
+  .prorfolioleft
+   {
+  float: left;  
+  }
+  .prorfolioright
+   {
+  float: right;  
+  }
+	.formtext
+	{
+		font-size: 1.0em;
+	}  
+	.formatfooter
+	{
+		width: 100%;
+		margin: 0 auto;
+		height: 30px;
+		padding-top: 2px;
+		border-top: 1px solid #4aaaa5;    
+	}
+					
+	.footertext
+	{
+		width: 70%; 
+		margin: auto;
+		font-size: 1.0em;
+	}			
+}

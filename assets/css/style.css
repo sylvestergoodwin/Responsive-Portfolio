@@ -1,0 +1,241 @@
+
+body
+	{
+	width: 960px;
+	margin: 0 auto;
+	padding: 2em;
+	font-family: 'Arial','Helvetica Neue', Helvetica, sans-serif;
+	font-size: 1em;
+	line-height: 1.4em;
+	background-color: lightgrey;
+	}  
+
+input {
+    width: 100%;
+}
+	textarea {
+    width: 100%;
+}
+
+.setdisplay
+	{
+	display: block;	
+	}	
+.oop
+{
+	width:960px;
+	height:100%;
+	overflow: auto;
+	background-color: darkgrey;
+}
+h1, h2, h3, h4, h5, h6
+	{
+	}
+.after-box 
+   {
+	margin-top:10px;	
+	clear: both;
+	}
+.floatright
+	{
+	float: right;
+	padding-top: 4px;
+	padding-left: 4px;
+	padding-bottom: 4px; 
+	padding-right: 4px; 
+  border: 1px solid darkgrey;
+	}
+.floatleft
+	{
+	float: left;
+	padding-top: 6px;
+	padding-left: 6px;
+	padding-bottom: 6px; 
+	padding-right: 6px; 
+  border: 1px solid darkgrey;
+	margin:6px;	
+	width: 30%;
+	}	
+.headerheight
+	{
+	height: 5em;	
+	}
+.header
+	{	
+	background-color: #ffffff;
+	font-family: 'Arial','Helvetica Neue', Helvetica, sans-serif;
+	color:#444444;	
+	border: 2px solid grey; 
+	}  
+	.headerwidth
+	{
+	width=100%;
+	}
+.textlable 
+	{
+	font-family: 'Arial','Helvetica Neue', Helvetica, sans-serif;		
+	}	
+.formtext
+	{
+	font-family: 'Arial','Helvetica Neue', Helvetica, sans-serif;	
+	font-size: 1.0em;
+	}  
+.sectionname
+	{
+	font-family: 'Georgia',Times, Times New Roman, serif;
+	font-size: 2em;
+	color: #4aaaa5;
+	}  
+.whoami
+	{
+	color: #ffffff;
+	background-color: #4aaaa5;
+	display: inline-block;
+	border: 3px solid #4aaaa5;
+	height: 1.55em;	
+	font-size: 1.85em;
+	padding-top: 0.95em;
+	}  
+.menu
+	{	
+	color: #ffffff;
+	background-color:#ffffff;
+	position: top;	
+	padding-top: 1.65em;
+	padding-right: 1.5em;
+	}  
+.menufloat
+	{
+	
+	float: right;	
+	}
+.maincontent
+	{
+	font-family: 'Arial','Helvetica Neue', Helvetica, sans-serif;
+	background-color: white;
+	position: top;	
+  border: 2px solid grey; 
+	padding-top: 1.5em;
+	padding-left: 1.0em;
+	padding-bottom: 1.0em; 
+	padding-right: 1.0em; 
+	}  
+	.maincontentwidth
+	{
+	width: 100%;		
+	}
+
+.hidewhensmall
+	{	
+	}
+.showwhensmall
+  {
+	display: none;
+	}
+.socialmedia
+	{
+  position: top;
+	font-family: 'Arial','Helvetica Neue', Helvetica, sans-serif;
+	background-color: white;
+	border-color: #dddddd;
+	border: 2px solid grey; 
+	padding-top: 1.5em; 
+	padding-left: 1.0em;
+	padding-bottom: 1.0em; 
+	padding-right: 1.0em; 
+	}
+	.socialmediawidth
+	{
+	width: 100%	
+	}
+.squareicon
+  {
+  height: 50px;
+  width: 50px;
+  }
+.boxborder
+  {
+  border: 2px solid darkgrey;
+	}
+.boxmargin
+  {
+  padding-right: 10px;
+  }
+.boxshadow
+   {
+  box-shadow: 10px 10px 5px #888888;
+  }  
+.prorfolio
+	{
+	padding: 15px;
+	display: block;
+  margin: auto;
+	}	
+	
+.size100
+  {
+	width:100%;
+  }
+  
+.size90
+  {
+	width:90%;
+  }
+  
+.size80
+  {
+	width:80%;
+  }
+  
+.size70
+  {
+	width:70%;
+  }
+  
+.size45
+  {
+  width: 45%;   
+  }   
+.size30
+  {
+  width: 30%;
+  }  
+img
+	{
+	vertical-align: middle;
+  border: 2px solid darkgrey;
+	}
+	
+img:hover
+  {
+		border: 2px solid lightgrey;
+		opacity: 0.8;
+	}	
+.footertext
+  {
+  width: 30%; 
+  margin: auto;
+	text-align: center;
+	}
+.formatfooter
+	{
+  margin: 0 auto;
+	background-color: #bbbbbb;
+	height: 30px;
+	padding-top: 20px;
+  border-top: 4px solid #4aaaa5;    
+	position: fixed;
+  bottom: 0;
+	}
+	.footerwidth
+	{
+	width: 960px;
+	}		
+
+  .aboutmeimgsize
+    {
+   width: 45%;  
+   }
+
+	
+		

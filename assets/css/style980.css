@@ -1,0 +1,47 @@
+	/* tablets/desktops and up ----------- */
+@media screen and (max-width: 980px) 
+{
+  body 
+    {
+    background-color: lightgreen;
+  }
+		
+  .setdisplay
+	{
+    display: inline-block;	
+	}	
+	.maincontentwidth
+	{
+		width: 55%;
+	}
+	.menu
+	{
+    float: right;
+	}
+  .menuboxborder
+	{
+    border: none;
+	}
+	.maincontentfloat
+	{
+		float: left;
+	}
+  	.prorfolio
+   {
+   width: 90%;  
+  } 
+	.socialmediawidth
+	{
+		width:30%;
+	}
+	.SetSocialMediaFloat
+	{
+		float: right;
+	}
+  .aboutmeimage
+    {
+   width: 100%;  
+   }
+
+}
+		
